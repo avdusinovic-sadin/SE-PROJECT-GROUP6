@@ -1,3 +1,5 @@
+##Start of the 1st Meeting
+
 # 1st Meeting
 
 Preparation for the 1st Presentation
@@ -13,4 +15,4 @@ We have discussed the following ideas in our team:
 
 We did some research on our ideas and we don't know yet which idea is the best for the promotion on the OpenDay, but we still have a lot of time to think about that.
 
-#End of the meeting
+##End of the meeting
