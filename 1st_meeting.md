@@ -1,4 +1,4 @@
-# 1st Presentation
+# 1st Meeting
 
 Preparation for the 1st Presentation
 
