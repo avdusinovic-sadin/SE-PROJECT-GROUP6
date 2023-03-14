@@ -7,7 +7,7 @@ The new idea was also confirmed by Mr. Volker Müller and new game is called BUB
 
 *Bubble Binfo* 
 
-Gaming description about the new game:
+_x_Gaming description about the new game:
 
 The aim/goal of the game is destroy some bubbles, but you can't destroy any bubble you want. 
 Before you click on start, a menu is displayed where you can see exactly which bubbles you are allowed to hit and which you are not. 
@@ -24,13 +24,13 @@ More information about the game:
 **Planning**
 
 
-*Trello* 
+_x_*Trello* 
 
 Trello optimisationby iplementing the various tasks fort he video and the project that we have in mind.
 Preperation for the next presentation and design of our topic
 
 
-*Promotion Video* 
+_x_*Promotion Video* 
 
 Video ideas: montage in the style of an early 2000s toy for boys style: very dynamic with explosions.
 Script is being has yet to be developed. To be completed in the next month. 
