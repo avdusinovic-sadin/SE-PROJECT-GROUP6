@@ -1,6 +1,7 @@
 # 2nd Meeting
 
 **New gaming idea**
+***
 
 After receiving feedback for our first presentation, we have decided on another project.
 The new idea was also confirmed by Mr. Volker Müller and new game is called BUBBLE BINFO.
@@ -23,15 +24,15 @@ More information about the game:
 
 
 **Planning**
+***
 
-
-<u>*Trello*</u>
+*Trello*
 
 Trello optimisationby iplementing the various tasks fort he video and the project that we have in mind.
 Preperation for the next presentation and design of our topic
 
 
-<u>*Promotion Video*</u>
+*Promotion Video*
 
 Video ideas: montage in the style of an early 2000s toy for boys style: very dynamic with explosions.
 Script is being has yet to be developed. To be completed in the next month. 
