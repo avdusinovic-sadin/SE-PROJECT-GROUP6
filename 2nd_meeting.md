@@ -7,7 +7,8 @@ The new idea was also confirmed by Mr. Volker Müller and new game is called BUB
 
 *Bubble Binfo* 
 
-<u>Gaming description about the new game:</u>
+Gaming description about the new game:
+***
 
 The aim/goal of the game is destroy some bubbles, but you can't destroy any bubble you want. 
 Before you click on start, a menu is displayed where you can see exactly which bubbles you are allowed to hit and which you are not. 
