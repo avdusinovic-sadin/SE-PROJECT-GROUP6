@@ -14,11 +14,11 @@ using the seen softwares from the software engineering
 course.
 
 ### Information about the game
-Name of the game: Bubble Binfo
-Aim of the game: To destroy the right bubbles & to get 30 ects
-Start: 0 ects
-End: 30 ects
-Programming language: Javascript or Java
+Name of the game: Bubble Binfo <br>
+Aim of the game: To destroy the right bubbles & to get 30 ects <br>
+Start: 0 ects <br>
+End: 30 ects <br>
+Programming language: Javascript or Java <br>
 
 
 
