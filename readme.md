@@ -21,7 +21,7 @@ course.
 5.You start with 0 ects.<br>
 
 # How to play
-1. Click on start. <br>
+1.Click on start. <br>
 2.A menu will appear where you can see which color represents a binfo course. <br>
 3.Click only on those colored bubbles. <br>
 4.Get 30 ects after 60 seconds otherwise try again! <br>
@@ -40,7 +40,7 @@ To run the game you only need to open the HTML file/page by a click. After the c
 and you are ready to have some fun!
 
 # Conclusion
-The game is built to promote binfo at the uni.lu. It is not meant to be a complicated game where you have to spend hours to program the game.<br>
+The game is built to promote binfo at the uni.lu. It is not meant to be a complicated game where you have to spend hours to program the game.
 The user should quickly understand the idea of the game.
 
 
