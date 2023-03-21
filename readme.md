@@ -1,6 +1,11 @@
 # Software Engineering Project
 
-## Bubble Binfo
+# Information about the course
+To try to organise & build a project in the most effecient way
+using the seen softwares from the software engineering
+course.
+
+# Name of the game: BUBBLE BINFO
 
 # Group Members: 
 
@@ -8,17 +13,31 @@
 * Student Id: 021155342D | 0211450654 | 0210448233
 * Email : alex.bouchtouf.001@student.uni.lu | simon.gourdon.001@student.uni.lu | sadin.avdusinovic.001@student.uni.lu 
 
-### Information about the course
-To try to organise & build a project in the most effecient way
-using the seen softwares from the software engineering
-course.
+# Rules of the game
+1.A buble can only be destroyed by a click.
+2.You can't destroy every bubble you see in the game , you should only click on the bubbles that represents a course.
+3.The game is when you got 30 ects after 60 seconds.
+4.The game is lost when you haven't achieved 30 ects after 60 seconds.
+5.You start with 0 ects.
 
-### Information about the game
-Name of the game: Bubble Binfo <br>
-Aim of the game: To destroy the right bubbles & to get 30 ects <br>
-Start: 0 ects <br>
-End: 30 ects <br>
-Programming language: Javascript or Java <br>
+# How to play
+1. Click on start.
+2.A menu will appear where you can see which color represents a binfo course.
+3.Click only on those colored bubbles.
+4.Get 30 ects after 60 seconds otherwise try again!
+
+
+# Technical Details about the game
+The game will be programmed in Javascript, CSS & HTML.
+to be continued after the first coding...
+
+#Installation
+To run the game you only need to open the HTML file/page by a click. After the click your standard browser will open the game 
+and you are ready to have some fun!
+
+#Conclusion
+The game is built to promote binfo at the uni.lu. It is not meant to be a complicated game where you have to spend hours to program the game.
+The user should quickly understand the idea of the game.
 
 
 
