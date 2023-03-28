@@ -1,6 +1,8 @@
 # Documentation
 
 
-## Bubble Binfo
+## Title: Bubble Binfo
+
+The documentation will be continued soon...
 
 
