@@ -6,7 +6,7 @@ using the seen softwares from the software engineering
 course.
 
 # Name of the game: BUBBLE BINFO
-![IMG_1972](https://user-images.githubusercontent.com/92041755/236059399-be08f379-d050-409a-b24f-a773648e811c.jpeg)
+![IMG_1972 (2)](https://user-images.githubusercontent.com/92041755/236059562-90ca4762-bdb6-442c-a632-40018c308f73.jpeg)
 
 # Group Members: 
 
