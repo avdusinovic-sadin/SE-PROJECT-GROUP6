@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: linear-gradient(#006afe , white);
+    background-image: linear-gradient(white ,#006afe);
     color: white;
     margin: auto;
     text-align: center;
@@ -269,7 +269,7 @@ body{
     position: absolute;
     left: 0;
     font-size: 30px;
-    color: white;
+    color: red;
     margin-left: 10px;
     margin-top: 10px;
 }

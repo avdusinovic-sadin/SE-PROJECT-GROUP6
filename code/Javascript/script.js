@@ -31,6 +31,7 @@ $(document).ready(function(){
         $("body").append("<div id='askPlayerNameBox'><p>Enter a player name</p> <br> <input type='text' id='enterPlayerName'><br><button id='continue'>continue</button></div>");
         //after a click on the continue button
         $('#continue').click(function(){
+            sessionStorage.setItem("playername", $("#enterPlayerName").val());
         //when the player name is empty a error message will appear
             if($("#enterPlayerName").val() == ""){
                 alert("These field can't be null or empty! Please enter a player name.");
@@ -52,7 +53,8 @@ $(document).ready(function(){
                         $("#gamingTitle").hide();
                         $("#buttonsBox").hide();
                         //show the name, ects & hearts
-                        $("body").append("<div id='playerNameBox'>Player: "+$("#enterPlayerName").val()+"</div>");
+                        $("body").append("<div id='playerNameBox'>Player: "+localStorage.getItem("playername")+"</div>");
+                        //$("body").append("<div id='playerNameBox'>Player: "+$("#enterPlayerName").val()+"</div>");
                         $("body").append("<div id='pauseBox'><button id='pause'>Pause</button></div>");
                         $("body").append("<table id='eth'><tr><td>ECTS</td><td>TIME</td><td>HEARTS</td></tr><tr><td id='ectsText'>"+ects+
                         "</td><td id='showTimeLeft'></td><td><span id='heartsBox'></span></td></tr></table>");
@@ -103,7 +105,9 @@ $(document).ready(function(){
                         //there is no time left
                         alert("no time left");
                         clearInterval(gameBubble);
-                        window.location.reload();
+                        if(sessionStorage.getItem("playername")!==null){
+                            alert("the session is set");
+                        }
                     }
                     $("#showTimeLeft").text(gameTime);
                 },1000);
