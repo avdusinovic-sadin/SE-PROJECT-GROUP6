@@ -3,7 +3,7 @@
 *Still to be implemented/edited for the webgame* 
 
   - add second semester to the webgame & quiz
-  - change the floating of the bubbles for the second semester (to make more difficult for the user)
+  - change the floating of the bubbles for the second semester (to make it more difficult for the user)
   - some debugging for the session part in the game
   - choose better colors for the courses (to have a better difference/contrast)
   - replace the filler text with a original/more corresponding text
