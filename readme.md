@@ -35,9 +35,8 @@ to be continued after the first coding... <br>
 The design of the game will be clean & simple. The bubbles are created as realistically as possible. <br>
 The number of ects will be shown on a score board at the top of the website.
 
-# Installation
-To run the game you only need to open the HTML file/page by a click. After the click your standard browser will open the game <br>
-and you are ready to have some fun!
+# How to run the game
+To run the game you only need to open the webgame on your browser. <br>
 
 # Conclusion
 The game is built to promote binfo at the uni.lu. It is not meant to be a complicated game where you have to spend hours to program the game.
