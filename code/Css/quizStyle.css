@@ -1,0 +1,75 @@
+/*generally*/
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: #73d0ef;
+}
+
+h1, h2 {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+/*main Div*/
+
+#main {
+  width: 700px;
+  position: fixed;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/*footer*/
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+/*show question div*/
+#showQuestionDiv {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/*options buttons*/
+.options {
+  background: black;
+  border: 1px solid #73d0ef;
+  color: #73d0ef;
+  padding: 10px;
+  width: 300px;
+  margin-right: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+/*hover over the buttons*/
+.options:hover {
+  color: blue;
+  background: #f6f513bf;
+}
+
+/*back button*/
+.backButton {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, -0%);
+}
