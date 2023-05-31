@@ -28,8 +28,7 @@ course.
 
 
 # Technical Details about the game
-The game will be programmed in Javascript, CSS & HTML. <br>
-to be continued after the first coding... <br>
+The game will be programmed in Javascript, CSS , Jquery & HTML. <br>
 
 # Design of the game:
 The design of the game will be clean & simple. The bubbles are created as realistically as possible. <br>
