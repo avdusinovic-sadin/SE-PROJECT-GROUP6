@@ -39,7 +39,7 @@ To run the game you only need to open the webgame on your browser. <br>
 Since it is a webgame we are using jquery and you need a internet connection to run the game.
 
 # Conclusion
-The game is built to promote binfo at the uni.lu. It is not meant to be a complicated game where you have to spend hours to program the game.
+The game is built to promote binfo at the uni.lu. It is not meant to be a complicated game where you have to spend hours to win the game.
 The user should quickly understand the idea of the game.
 
 
